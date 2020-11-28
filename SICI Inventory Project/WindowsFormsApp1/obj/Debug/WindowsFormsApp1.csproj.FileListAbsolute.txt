@@ -1,0 +1,12 @@
+E:\SICI Inventory Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\SICI Inventory Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\SICI Inventory Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginScreen.resources
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeMenu.resources
+E:\SICI Inventory Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateListingMenu.resources
